@@ -15,3 +15,4 @@ jobs:
          ngrok config add-authtoken 2Bw3XNVKtfvGmgATydjBkhgn0fD_5oDuDMvX6pbLgB9Z2MT5g
          cmd /c service.bat
          cmd /c setup.bat
+         
